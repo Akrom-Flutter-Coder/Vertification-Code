@@ -1,0 +1,4 @@
+#Thu Jun 16 11:12:39 UZT 2022
+base.0=/Users/akromsmacbbok/Desktop/vertification/my_code/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
